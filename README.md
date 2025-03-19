@@ -1,1 +1,2 @@
-## Queries on AdventureWorks Database
+## SQL Queries
+
