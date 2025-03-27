@@ -1,0 +1,77 @@
+// 01 Introduction to C# and Data Types
+// 1. What type would you choose for the following “numbers”?
+A person’s telephone number: string  
+A person’s height: float  
+A person’s age: int  
+A person’s gender: string  
+A person’s salary: decimal  
+A book’s ISBN: string  
+A book’s price: decimal  
+A book’s shipping weight: float  
+A country’s population: long  
+The number of stars in the universe: ulong  
+The number of employees in small/medium businesses: int  
+
+// 2. Difference between value type and reference type, boxing, unboxing
+Value types store data directly, reference types store references; boxing converts value to reference, unboxing reverses it.
+
+// 3. Managed vs unmanaged resources in .NET
+Managed resources are handled by .NET (e.g., memory), unmanaged are external (e.g., file handles).
+
+// 4. Purpose of Garbage Collector in .NET
+It automatically frees memory by reclaiming unused objects.
+
+// Test your Knowledge
+// 1. Divide int by 0
+It throws a DivideByZeroException.
+
+// 2. Divide double by 0
+It returns Infinity or NaN, no exception.
+
+// 3. Overflow int
+It wraps around (e.g., int.MaxValue + 1 becomes int.MinValue).
+
+// 4. x = y++ vs x = ++y
+y++ assigns y then increments; ++y increments y then assigns.
+
+// 5. break vs continue vs return
+break exits loop, continue skips to next iteration, return exits method.
+
+// 6. Three parts of for statement
+Initialization, condition, increment; only condition is required.
+
+// 7. = vs ==
+= assigns, == compares equality.
+
+// 8. for (; true; ); compile?
+Yes, it’s an infinite loop.
+
+// 9. Underscore in switch
+It’s the default case, matching any value.
+
+// 10. Interface for foreach
+IEnumerable.
+
+// What happens with this code?
+int max = 500;
+for (byte i = 0; i < max; i++) { Console.WriteLine(i); }
+// It overflows at 255 (byte max), causing an infinite loop.
+
+
+Other Topics:--
+
+C# operators – C# provides various operators, including arithmetic, relational, logical, bitwise, and assignment operators, to perform operations on variables and values.
+Bitwise and shift operators – These operators manipulate individual bits of numeric types, including AND (&), OR (|), XOR (^), left shift (<<), and right shift (>>).
+Statement keywords – C# statement keywords like if, switch, for, while, return, and break control the program flow and execution.
+Casting and type conversions – C# allows explicit ((int)variable) and implicit conversions between compatible types, as well as conversion methods like Convert.ToInt32().
+Fundamentals of garbage collection – The .NET garbage collector automatically manages memory by reclaiming unused objects to prevent memory leaks.
+$ - string interpolation – The $ symbol in C# enables inline variable embedding in strings, like $"Hello, {name}!".
+Formatting types in .NET – The .NET framework provides formatting options such as ToString(), composite formatting, and format specifiers for customizing output.
+Iteration statements – Loops like for, while, and foreach allow repeated execution of code blocks based on conditions.
+Selection statements – if, else, and switch statements enable decision-making by executing different code paths based on conditions.
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+1. Public - Accessible everywhere  
+   Private - Accessible only within the class  
+   Protected - Accessible within the class and derived classes  
+   Internal - Accessible within the same assembly  
+   Protected Internal - Accessible within the same assembly or derived classes  
+   Private Protected - Accessible within the class and derived classes in the same assembly  
+
+2. Static - Shared across all instances  
+   Const - Compile-time constant  
+   Readonly - Runtime constant  
+
+3. Initializes  
+
+4. Splits  
+
+5. Value-group  
+
+6. Immutable  
+
+7. Overloading - Same name, different parameters  
+   Overriding - Redefines base method  
+
+8. Field - Raw data  
+   Property - Controlled access  
+
+9. Default  
+
+10. Interface - Contract only  
+    Abstract - Partial implementation  
+
+11. Public  
+
+12. True  
+
+13. True  
+
+14. False  
+
+15. False  
+
+16. True  
+
+17. True  
+
+18. True  
+
+19. False  
+
+20. False  
+
+21. True  
+
+22. False  
+
+23. True

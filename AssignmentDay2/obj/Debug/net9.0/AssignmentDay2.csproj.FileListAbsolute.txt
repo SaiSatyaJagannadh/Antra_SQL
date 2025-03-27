@@ -1,0 +1,14 @@
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/bin/Debug/net9.0/AssignmentDay2
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/bin/Debug/net9.0/AssignmentDay2.deps.json
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/bin/Debug/net9.0/AssignmentDay2.runtimeconfig.json
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/bin/Debug/net9.0/AssignmentDay2.dll
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/bin/Debug/net9.0/AssignmentDay2.pdb
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.AssemblyInfoInputs.cache
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.AssemblyInfo.cs
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.csproj.CoreCompileInputs.cache
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.dll
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/refint/AssignmentDay2.dll
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.pdb
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/AssignmentDay2.genruntimeconfig.cache
+/Users/saijagannadh/RiderProjects/Antra_Training_CSharp/AssignmentDay2/obj/Debug/net9.0/ref/AssignmentDay2.dll

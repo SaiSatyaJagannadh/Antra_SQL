@@ -1,0 +1,10 @@
+1. Generics address the problem of type safety and code reuse by allowing classes and methods to operate on different data types without casting or boxing/unboxing.
+2. You create a list of strings using List<string> stringList = new List<string>();.
+3. The Dictionary class has two generic type parameters: one for the key type and one for the value type.
+4. False, when a generic class has multiple type parameters, they do not need to match; they can be different types like Dictionary<int, string>.
+5. The Add method is used to add items to a List object.
+6. Two methods that remove items from a List are Remove and Clear.
+7. You indicate a class has a generic type parameter by adding angle brackets with a type placeholder after the class name, like class MyClass<T>.
+8. False, generic classes can have multiple generic type parameters, such as class MyClass<T1, T2>.
+9. True, generic type constraints limit what can be used for the generic type by specifying requirements like where T : class.
+10. True, constraints let you use the methods of the constrained type, for example, if constrained to where T : IEnumerable, you can call enumeration methods on T.
